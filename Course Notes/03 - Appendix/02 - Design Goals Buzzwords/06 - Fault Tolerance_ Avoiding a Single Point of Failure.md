@@ -1,7 +1,7 @@
 # 🛡️ **Fault Tolerance: Avoiding a Single Point of Failure** 
 ---
 
-## 🧩 **Understanding Single Point of Failure**
+## 🧩 **Understanding Single Point of Failure (SPOF)**
 
 ### 🌉 **The Bridge Analogy**
 

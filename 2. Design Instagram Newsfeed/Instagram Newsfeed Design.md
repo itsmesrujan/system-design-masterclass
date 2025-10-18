@@ -593,9 +593,8 @@ The client requests a pre-signed URL from the API Gateway to upload the image/vi
 ### **13. Update Feeds DB**
 - The **News Feed Generator Service** adds the new post to all followers' feeds.  
 - This information is stored in the **Feeds DB**. Each entry in the **Feeds DB** maps `UserId` to their News Feed
-```
-UserId → { Post1, Post2, Post3 ... }
-```
+```UserId → { Post1, Post2, Post3 ... }```
+
 ### **14. Update Feed Cache**
 - The same information is also updated in the **Feed Cache** for faster access.
 

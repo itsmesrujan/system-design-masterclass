@@ -57,14 +57,6 @@ Think of vertical scaling as upgrading your car’s engine for more power. 🚗�
 
 ---
 
-## **✅ Benefits of Horizontal Scaling**
-
-* **📈 Increased Capacity:** Handle more user requests and traffic.
-* **🛡️ Improved Fault Tolerance:** If one server fails, others can still handle the load.
-* **🔧 Easier Scalability:** Add or remove servers as needed to adjust to demand.
-
----
-
 ## **🔍 Choosing the Right Scaling Strategy**
 
 The choice between vertical and horizontal scaling depends on your system’s needs:
